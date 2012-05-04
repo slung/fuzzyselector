@@ -1,0 +1,101 @@
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\bin\Debug\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\bin\Debug\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\obj\Debug\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\bin\Debug\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\bin\Debug\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\obj\Debug\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\bin\Debug\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\bin\Debug\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\obj\Debug\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Debug\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Debug\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\obj\Debug\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\DomainOntologyService\bin\Debug\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\DomainOntologyService\bin\Debug\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\DomainOntologyService\bin\Debug\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\DomainOntologyService\bin\Debug\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\DomainOntologyService\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\DomainOntologyService\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\DomainOntologyService\bin\Debug\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\DomainOntologyService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\DomainOntologyService\obj\Debug\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\DomainOntologyService\obj\Debug\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\DomainOntologyService\obj\Debug\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\DomainOntologyService\obj\Debug\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\DomainOntologyService\obj\Debug\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors7\FuzzySelector MI Client\DomainOntologyService\bin\Debug\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\FuzzySelectors7\FuzzySelector MI Client\DomainOntologyService\obj\Debug\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\FuzzySelectors7\FuzzySelector MI Client\DomainOntologyService\obj\Debug\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\DomainOntologyService\bin\Debug\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\DomainOntologyService\obj\Debug\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\DomainOntologyService\obj\Debug\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\bin\Debug\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\obj\Debug\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\obj\Debug\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\bin\Debug\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\bin\Debug\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\bin\Debug\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\bin\Debug\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\obj\Debug\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\obj\Debug\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\obj\Debug\DomainOntologyService.csproj.GenerateResource.Cache
+D:\Disertatie\Project\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.exe.config
+D:\Disertatie\Project\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.exe
+D:\Disertatie\Project\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.pdb
+D:\Disertatie\Project\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.exe
+D:\Disertatie\Project\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.pdb
+D:\Disertatie\Project\FuzzySelector\DomainOntologyService\bin\Debug\FuzzySelectorCommon.dll
+D:\Disertatie\Project\FuzzySelector\DomainOntologyService\bin\Debug\Microsoft.Uddi.dll
+D:\Disertatie\Project\FuzzySelector\DomainOntologyService\bin\Debug\ZedGraph.dll
+D:\Disertatie\Project\FuzzySelector\DomainOntologyService\bin\Debug\FuzzySelectorCommon.pdb
+D:\Disertatie\Project\FuzzySelector\DomainOntologyService\obj\Debug\ResolveAssemblyReference.cache
+D:\Disertatie\Project\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+D:\Disertatie\Project\FuzzySelector\DomainOntologyService\obj\Debug\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+D:\Disertatie\Project\FuzzySelector\DomainOntologyService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Disertatie\Project\FuzzySelector\DomainOntologyService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Silviu\Projects\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.exe.config
+D:\Silviu\Projects\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.exe
+D:\Silviu\Projects\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.pdb

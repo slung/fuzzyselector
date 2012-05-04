@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SmartSpammer.resx" GeneratedClassName="SmartSpammerSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BOUNDS" Type="System.Drawing.Rectangle" Scope="User">
+      <Value Profile="(Default)">500, 300, 700, 350</Value>
+    </Setting>
+    <Setting Name="DOS_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="DOS_PORT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9900</Value>
+    </Setting>
+    <Setting Name="FFS_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="FFS_PORT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9910</Value>
+    </Setting>
+    <Setting Name="THREADS" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="EXECUTIONS" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="RULE_GENERATION_NUMBER_OF_OUTCOMES" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="RULE_GENERATION_NUMBER_OF_NEIGHBOURS_ON_EACH_SIDE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="RULE_GENERATION_RULE_ACTIVATION_ALGORITHM" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="RULE_GENERATION_DECISION_ACTIVATION_ALGORITHM" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="INFERENCE_ALGORITHM" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="IMPORTANCE_A" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="IMPORTANCE_B" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="IMPORTANCE_C" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="IMPORTANCE_FUNCTION" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="RULE_GENERATION_FORCE_NEIGHBOURS" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="knowledgebase">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="domainontology">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="premise">
+                <xs:complexType>
+                  <xs:attribute name="var" type="xs:string" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="conclusion">
+                <xs:complexType>
+                  <xs:attribute name="var" type="xs:string" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="filename" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element maxOccurs="unbounded" name="rule">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="premise">
+                <xs:complexType>
+                  <xs:attribute name="term" type="xs:string" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="conclusion">
+                <xs:complexType>
+                  <xs:attribute name="term" type="xs:string" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

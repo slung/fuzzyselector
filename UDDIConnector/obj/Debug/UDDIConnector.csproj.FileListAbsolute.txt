@@ -1,0 +1,295 @@
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.Properties.Resources.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.MainForm.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.PublishForm.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\bin\Debug\UDDIConnector.exe
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\bin\Debug\UDDIConnector.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\bin\Debug\UDDISearch.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\bin\Debug\Microsoft.Uddi.Sdk.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\bin\Debug\UDDISearch.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\bin\Debug\UDDIConnector.exe
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\bin\Debug\UDDIConnector.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.Properties.Resources.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.PublishForm.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.EndpointForm.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.SearchForm.resources
+c:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 4\UDDIConnector\obj\Debug\UDDIConnector.exe
+c:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 4\UDDIConnector\obj\Debug\UDDIConnector.pdb
+c:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 4\UDDIConnector\bin\Debug\UDDIConnector.exe
+c:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 4\UDDIConnector\bin\Debug\UDDIConnector.pdb
+c:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 4\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+c:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 4\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 4\UDDIConnector\obj\Debug\UDDIConnector.Properties.Resources.resources
+c:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 4\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+c:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 4\UDDIConnector\obj\Debug\UDDIConnector.EndpointForm.resources
+c:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 4\UDDIConnector\obj\Debug\UDDIConnector.SearchForm.resources
+c:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 4\UDDIConnector\obj\Debug\UDDIConnector.PublishForm.resources
+c:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 4\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\bin\Debug\UDDIConnector.exe
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\bin\Debug\UDDIConnector.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.Properties.Resources.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.EndpointForm.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.SearchForm.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.PublishForm.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\bin\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\bin\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.EndpointForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.SearchForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.PublishForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 5\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+c:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 6\UDDIConnector\obj\Debug\UDDIConnector.exe
+c:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 6\UDDIConnector\obj\Debug\UDDIConnector.pdb
+c:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 6\UDDIConnector\bin\Debug\UDDIConnector.exe
+c:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 6\UDDIConnector\bin\Debug\UDDIConnector.pdb
+c:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 6\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+c:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 6\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 6\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+c:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 6\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+c:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 6\UDDIConnector\obj\Debug\UDDIConnector.PublishServiceForm.resources
+c:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 6\UDDIConnector\obj\Debug\UDDIConnector.PublishOntologyForm.resources
+c:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 6\UDDIConnector\obj\Debug\UDDIConnector.SearchServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 6\UDDIConnector\obj\Debug\UDDIConnector.SearchOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 6\UDDIConnector\obj\Debug\UDDIConnector.UpdateForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 6\UDDIConnector\obj\Debug\UDDIConnector.ServiceProviderForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\bin\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\bin\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\obj\Debug\UDDIConnector.ServiceProviderForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\obj\Debug\UDDIConnector.UpdateForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\obj\Debug\UDDIConnector.PublishServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\obj\Debug\UDDIConnector.PublishOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\obj\Debug\UDDIConnector.SearchOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\obj\Debug\UDDIConnector.SearchServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\obj\Debug\UDDIConnector.SelectOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 7\UDDIConnector\obj\Debug\UDDIConnector.WSDLParserForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\bin\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\bin\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\obj\Debug\UDDIConnector.SelectOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\obj\Debug\UDDIConnector.ServiceProviderForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\obj\Debug\UDDIConnector.UpdateForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\obj\Debug\UDDIConnector.PublishServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\obj\Debug\UDDIConnector.PublishOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\obj\Debug\UDDIConnector.SearchOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\obj\Debug\UDDIConnector.SearchServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\obj\Debug\UDDIConnector.WSDLParserForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 8\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\obj\Debug\UDDIConnector.SelectOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\obj\Debug\UDDIConnector.ServiceProviderForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\obj\Debug\UDDIConnector.UpdateForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\obj\Debug\UDDIConnector.PublishServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\obj\Debug\UDDIConnector.PublishOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\obj\Debug\UDDIConnector.SearchOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\obj\Debug\UDDIConnector.SearchServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\obj\Debug\UDDIConnector.WSDLParserForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\bin\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\bin\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 9\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\bin\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\bin\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.SelectOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.ServiceProviderForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.UpdateForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.PublishServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.PublishOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.SearchOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.SearchServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.WSDLParserForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+c:\Licenta\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.exe
+c:\Licenta\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.pdb
+c:\Licenta\UDDI 10\UDDIConnector\bin\Debug\UDDIConnector.exe
+c:\Licenta\UDDI 10\UDDIConnector\bin\Debug\UDDIConnector.pdb
+c:\Licenta\UDDI 10\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+c:\Licenta\UDDI 10\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+c:\Licenta\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+c:\Licenta\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.SelectOntologyForm.resources
+c:\Licenta\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.ServiceProviderForm.resources
+c:\Licenta\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.UpdateForm.resources
+c:\Licenta\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.PublishServiceForm.resources
+c:\Licenta\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.PublishOntologyForm.resources
+c:\Licenta\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.SearchOntologyForm.resources
+c:\Licenta\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.SearchServiceForm.resources
+c:\Licenta\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.WSDLParserForm.resources
+c:\Licenta\UDDI 10\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+c:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI\UDDIConnector\obj\Debug\UDDIConnector.exe
+c:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\bin\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\bin\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.ServiceProviderForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.UpdateForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.PublishServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.PublishOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.SearchOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.SearchServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 2\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI2\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI2\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI2\UDDIConnector\bin\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI2\UDDIConnector\bin\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI2\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI2\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI2\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI2\UDDIConnector\obj\Debug\UDDIConnector.ServiceProviderForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI2\UDDIConnector\obj\Debug\UDDIConnector.UpdateForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI2\UDDIConnector\obj\Debug\UDDIConnector.PublishServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI2\UDDIConnector\obj\Debug\UDDIConnector.PublishOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI2\UDDIConnector\obj\Debug\UDDIConnector.SearchOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI2\UDDIConnector\obj\Debug\UDDIConnector.SearchServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI2\UDDIConnector\obj\Debug\UDDIConnector.WSDLParserForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI2\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Silviu\UDDI\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Desktop\Silviu\UDDI\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Desktop\Silviu\UDDI\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Silviu\UDDI\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+C:\Users\Administrator\Desktop\Silviu\UDDI\UDDIConnector\obj\Debug\UDDIConnector.ServiceProviderForm.resources
+C:\Users\Administrator\Desktop\Silviu\UDDI\UDDIConnector\obj\Debug\UDDIConnector.UpdateForm.resources
+C:\Users\Administrator\Desktop\Silviu\UDDI\UDDIConnector\obj\Debug\UDDIConnector.PublishServiceForm.resources
+C:\Users\Administrator\Desktop\Silviu\UDDI\UDDIConnector\obj\Debug\UDDIConnector.PublishOntologyForm.resources
+C:\Users\Administrator\Desktop\Silviu\UDDI\UDDIConnector\obj\Debug\UDDIConnector.SearchOntologyForm.resources
+C:\Users\Administrator\Desktop\Silviu\UDDI\UDDIConnector\obj\Debug\UDDIConnector.SearchServiceForm.resources
+C:\Users\Administrator\Desktop\Silviu\UDDI\UDDIConnector\obj\Debug\UDDIConnector.WSDLParserForm.resources
+C:\Users\Administrator\Desktop\Silviu\UDDI\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Silviu\UDDI\UDDIConnector\bin\Debug\UDDIConnector.exe
+C:\Users\Administrator\Desktop\Silviu\UDDI\UDDIConnector\bin\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Desktop\Silviu\UDDI\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\bin\Debug\UDDIConnector.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\bin\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.ServiceProviderForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.UpdateForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.PublishServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.PublishOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.SearchOntologyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.SearchServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 6\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Desktop\Licenta 6\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Desktop\Licenta 6\UDDI 3\UDDIConnector\bin\Debug\UDDIConnector.exe
+C:\Users\Administrator\Desktop\Licenta 6\UDDI 3\UDDIConnector\bin\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Desktop\Licenta 6\UDDI 3\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 6\UDDI 3\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 6\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+C:\Users\Administrator\Desktop\Licenta 6\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.ServiceProviderForm.resources
+C:\Users\Administrator\Desktop\Licenta 6\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.UpdateForm.resources
+C:\Users\Administrator\Desktop\Licenta 6\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.PublishServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 6\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.PublishOntologyForm.resources
+C:\Users\Administrator\Desktop\Licenta 6\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.SearchOntologyForm.resources
+C:\Users\Administrator\Desktop\Licenta 6\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.SearchServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 6\UDDI 3\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\bin\Debug\UDDIConnector.exe
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\bin\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Debug\UDDIConnector.ServiceProviderForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Debug\UDDIConnector.UpdateForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Debug\UDDIConnector.PublishServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Debug\UDDIConnector.PublishOntologyForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Debug\UDDIConnector.SearchOntologyForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Debug\UDDIConnector.SearchServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 8\UDDI\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Desktop\Licenta 8\UDDI\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Desktop\Licenta 10\UDDI\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Desktop\Licenta 10\UDDI\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Desktop\Licenta 11\UDDI\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Desktop\Licenta 11\UDDI\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Desktop\Licenta\UDDI\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Desktop\Licenta\UDDI\UDDIConnector\obj\Debug\UDDIConnector.pdb
+G:\Licenta B623\UDDI\UDDIConnector\obj\Debug\UDDIConnector.exe
+G:\Licenta B623\UDDI\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Documents and Settings\Gabriel\Desktop\UDDI 1\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Documents and Settings\Gabriel\Desktop\UDDI 1\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Documents and Settings\Gabriel\Desktop\UDDI 1\UDDIConnector\bin\Debug\UDDIConnector.exe
+C:\Documents and Settings\Gabriel\Desktop\UDDI 1\UDDIConnector\bin\Debug\UDDIConnector.pdb
+C:\Documents and Settings\Gabriel\Desktop\UDDI 1\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+C:\Documents and Settings\Gabriel\Desktop\UDDI 1\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\Desktop\UDDI 1\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+C:\Documents and Settings\Gabriel\Desktop\UDDI 1\UDDIConnector\obj\Debug\UDDIConnector.UpdateForm.resources
+C:\Documents and Settings\Gabriel\Desktop\UDDI 1\UDDIConnector\obj\Debug\UDDIConnector.PublishServiceForm.resources
+C:\Documents and Settings\Gabriel\Desktop\UDDI 1\UDDIConnector\obj\Debug\UDDIConnector.PublishOntologyForm.resources
+C:\Documents and Settings\Gabriel\Desktop\UDDI 1\UDDIConnector\obj\Debug\UDDIConnector.SearchOntologyForm.resources
+C:\Documents and Settings\Gabriel\Desktop\UDDI 1\UDDIConnector\obj\Debug\UDDIConnector.SearchServiceForm.resources
+C:\Documents and Settings\Gabriel\Desktop\UDDI 1\UDDIConnector\obj\Debug\UDDIConnector.csproj.GenerateResource.Cache
+C:\Documents and Settings\Gabriel\Desktop\UDDI 1\UDDIConnector\obj\Debug\UDDIConnector.ProviderForm.resources
+C:\Documents and Settings\Gabriel\Desktop\UDDI 1\UDDIConnector\bin\Debug\UDDIConnector.exe.config
+D:\Licenta\LICENTA 5\UDDI\UDDIConnector\bin\Debug\UDDIConnector.exe.config
+D:\Licenta\LICENTA 5\UDDI\UDDIConnector\obj\Debug\UDDIConnector.exe
+D:\Licenta\LICENTA 5\UDDI\UDDIConnector\obj\Debug\UDDIConnector.pdb
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\bin\Debug\UDDIConnector.exe.config
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\obj\Debug\UDDIConnector.exe
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\obj\Debug\UDDIConnector.pdb
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\bin\Debug\UDDIConnector.exe.config
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\bin\Debug\UDDIConnector.exe
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\bin\Debug\UDDIConnector.pdb
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\bin\Debug\Microsoft.Uddi.dll
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\obj\Debug\ResolveAssemblyReference.cache
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\obj\Debug\UDDIConnector.ConnectionForm.resources
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\obj\Debug\UDDIConnector.ProviderForm.resources
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\obj\Debug\UDDIConnector.UpdateForm.resources
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\obj\Debug\UDDIConnector.PublishServiceForm.resources
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\obj\Debug\UDDIConnector.PublishOntologyForm.resources
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\obj\Debug\UDDIConnector.SearchOntologyForm.resources
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\obj\Debug\UDDIConnector.SearchServiceForm.resources
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\obj\Debug\UDDIConnector.exe
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\obj\Debug\UDDIConnector.pdb
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\obj\Debug\UDDIConnector.CreateOntologyForm.resources
+D:\Disertatie\Project\FuzzySelector\UDDIConnector\bin\Debug\resx\properties.xml
+D:\Silviu\Projects\FuzzySelector\UDDIConnector\bin\Debug\UDDIConnector.exe.config
+D:\Silviu\Projects\FuzzySelector\UDDIConnector\obj\Debug\UDDIConnector.exe
+D:\Silviu\Projects\FuzzySelector\UDDIConnector\obj\Debug\UDDIConnector.pdb

@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DomainOntologyService.resx" GeneratedClassName="DomainOntologyServiceSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BOUNDS" Type="System.Drawing.Rectangle" Scope="User">
+      <Value Profile="(Default)">200, 200, 291, 483</Value>
+    </Setting>
+    <Setting Name="SEPARATOR_FUNCTIONALITIES_PROPERTIES" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">113</Value>
+    </Setting>
+    <Setting Name="SEPARATOR_PROPERTIES_TERMS" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">113</Value>
+    </Setting>
+    <Setting Name="LISTENING_PORT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9900</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

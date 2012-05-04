@@ -1,0 +1,388 @@
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\bin\Release\resx\services\Procesor.xml
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\bin\Release\resx\services\Stock Market.xml
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\bin\Release\ro-RO\FunctionalityFindingService.resources.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\obj\Release\FunctionalityFindingService.Properties.Resources.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.ro-RO.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\obj\Release\ro-RO\FunctionalityFindingService.resources.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\resx\services\Procesor.xml
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\resx\services\Stock Market.xml
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FunctionalityFindingService.resources.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.Properties.Resources.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.ro-RO.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\ro-RO\FunctionalityFindingService.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FunctionalityFindingService.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.ro-RO.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\obj\Release\ro-RO\FunctionalityFindingService.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\resx\services\Processor.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FunctionalityFindingService\bin\Release\resx\services\StockMarket.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\bin\Release\resx\services\Processor.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\bin\Release\resx\services\StockMarket.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\bin\Release\ro-RO\FunctionalityFindingService.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.ro-RO.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\obj\Release\ro-RO\FunctionalityFindingService.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.ro-RO.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\resx\services\Processor.xml
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\resx\services\StockMarket.xml
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\ro-RO\FunctionalityFindingService.resources.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\ro-RO\FunctionalityFindingService.resources.dll
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\resx\services\Processor.xml
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\resx\services\StockMarket.xml
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\ro-RO\FunctionalityFindingService.resources.dll
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.ro-RO.resources
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\ro-RO\FunctionalityFindingService.resources.dll
+C:\Users\ioana\Silviu\FuzzySelector 2\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\ioana\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\ioana\Silviu\FuzzySelector 2\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\bin\Release\resx\services\Processor.xml
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\bin\Release\resx\services\StockMarket.xml
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FunctionalityFindingService.resources.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.ro-RO.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FunctionalityFindingService\obj\Release\ro-RO\FunctionalityFindingService.resources.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 6\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Licenta 6\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 6\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+G:\Licenta B623\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+G:\Licenta B623\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+G:\Licenta B623\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 3\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.InferenceMachine.RuleGeneration.Rules.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.SettingsForm.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\ZedGraph.dll
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+D:\Licenta\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+D:\Licenta\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+D:\Licenta\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FunctionalityFindingService.pdb
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Prezentare Practica Licenta\FuzzySelector MI Client\FunctionalityFindingService\bin\Release\FunctionalityFindingService.exe.config
+C:\Users\Administrator\Desktop\Prezentare Practica Licenta\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.exe
+C:\Users\Administrator\Desktop\Prezentare Practica Licenta\FuzzySelector MI Client\FunctionalityFindingService\obj\Release\FunctionalityFindingService.pdb

@@ -1,0 +1,64 @@
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\SmartSpammer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.resx.SmartSpammerStrings.resources
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\SmartSpammer\obj\Debug\FuzzySelector.SmartSpammer.SmartSpammerForm.resources
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\SmartSpammer\obj\Debug\FuzzySelector.SmartSpammer.SmartSpammerResultsForm.resources
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\SmartSpammer\obj\Debug\Spammer.src.SpamResultForm.resources
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\SmartSpammer\bin\Debug\SmartSpammer.exe.config
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\SmartSpammer\bin\Debug\SmartSpammer.exe
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\SmartSpammer\bin\Debug\SmartSpammer.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\SmartSpammer\bin\Debug\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\SmartSpammer\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\SmartSpammer\bin\Debug\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.exe
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors7\FuzzySelector MI Client\SmartSpammer\bin\Debug\SmartSpammer.exe.config
+C:\Users\Administrator\Desktop\FuzzySelectors7\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.exe
+C:\Users\Administrator\Desktop\FuzzySelectors7\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\SmartSpammer\bin\Debug\SmartSpammer.exe.config
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.exe
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\SmartSpammer\bin\Debug\SmartSpammer.exe
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\SmartSpammer\bin\Debug\SmartSpammer.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\SmartSpammer\bin\Debug\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\SmartSpammer\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\SmartSpammer\bin\Debug\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\SmartSpammer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.resx.SmartSpammerStrings.resources
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\SmartSpammer\obj\Debug\FuzzySelector.SmartSpammer.SmartSpammerForm.resources
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\SmartSpammer\obj\Debug\FuzzySelector.SmartSpammer.SmartSpammerResultsForm.resources
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\SmartSpammer\obj\Debug\Spammer.src.SpamResultForm.resources
+C:\Users\Administrator\Desktop\FuzzySelectors 7\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\SmartSpammer\bin\Debug\SmartSpammer.exe.config
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.exe
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\SmartSpammer\bin\Debug\SmartSpammer.exe
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\SmartSpammer\bin\Debug\SmartSpammer.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\SmartSpammer\bin\Debug\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\SmartSpammer\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\SmartSpammer\bin\Debug\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\SmartSpammer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.resx.SmartSpammerStrings.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\SmartSpammer\obj\Debug\FuzzySelector.SmartSpammer.SmartSpammerForm.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\SmartSpammer\obj\Debug\FuzzySelector.SmartSpammer.SmartSpammerResultsForm.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\SmartSpammer\obj\Debug\Spammer.src.SpamResultForm.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\SmartSpammer\obj\Debug\SmartSpammer.csproj.GenerateResource.Cache
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\bin\Debug\SmartSpammer.exe.config
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\bin\Debug\SmartSpammer.exe
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\bin\Debug\SmartSpammer.pdb
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\bin\Debug\FuzzySelectorCommon.dll
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\bin\Debug\ZedGraph.dll
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\bin\Debug\FuzzySelectorCommon.pdb
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\obj\Debug\ResolveAssemblyReference.cache
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\obj\Debug\SmartSpammer.Properties.Resources.resources
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\obj\Debug\SmartSpammer.resx.SmartSpammerStrings.resources
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\obj\Debug\FuzzySelector.SmartSpammer.SmartSpammerForm.resources
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\obj\Debug\FuzzySelector.SmartSpammer.SmartSpammerResultsForm.resources
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\obj\Debug\Spammer.src.SpamResultForm.resources
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\obj\Debug\SmartSpammer.exe
+D:\Disertatie\Project\FuzzySelector\SmartSpammer\obj\Debug\SmartSpammer.pdb

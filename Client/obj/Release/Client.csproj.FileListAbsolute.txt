@@ -1,0 +1,334 @@
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\bin\Release\Client.exe.config
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\bin\Release\Client.exe
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\bin\Release\Client.pdb
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\bin\Release\ro-RO\Client.resources.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\bin\Release\ZedGraph.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\obj\Release\Client.resx.ClientStrings.ro-RO.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\obj\Release\ro-RO\Client.resources.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\obj\Release\Client.exe
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\Client\obj\Release\Client.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\Client.exe
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\Client.exe
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\Client.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\ro-RO\Client.resources.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\Client.Properties.Resources.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.ro-RO.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\ro-RO\Client.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\Client.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\Client.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\ro-RO\Client.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.ro-RO.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\Client\obj\Release\ro-RO\Client.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\obj\Release\Client.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\bin\Release\Client.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\bin\Release\ro-RO\Client.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\obj\Release\Client.resx.ClientStrings.ro-RO.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\Client\obj\Release\ro-RO\Client.resources.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\bin\Release\Client.exe
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\bin\Release\ro-RO\Client.resources.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\obj\Release\Client.resx.ClientStrings.ro-RO.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\Client\obj\Release\ro-RO\Client.resources.dll
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\Client\bin\Release\Client.exe.config
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\Client\obj\Release\Client.exe
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\Client\obj\Release\Client.pdb
+C:\Users\ioana\Silviu\FuzzySelector 2\Client\bin\Release\Client.exe.config
+C:\Users\ioana\Silviu\FuzzySelector 2\Client\obj\Release\Client.exe
+C:\Users\ioana\Silviu\FuzzySelector 2\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\bin\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\bin\Release\ro-RO\Client.resources.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.ro-RO.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\Client\obj\Release\ro-RO\Client.resources.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\Client\bin\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\Client\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\Client\bin\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\Client\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 6\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Licenta 6\FuzzySelector\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 6\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\Client\bin\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\Client\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\Client\bin\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\Client\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\Client\bin\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\Client\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\Client\bin\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\Client\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\Client\bin\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\Client\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\Client\obj\Release\Client.csproj.GenerateResource.Cache
+G:\Licenta B623\FuzzySelector\Client\bin\Release\Client.exe.config
+G:\Licenta B623\FuzzySelector\Client\obj\Release\Client.exe
+G:\Licenta B623\FuzzySelector\Client\obj\Release\Client.pdb
+G:\Licenta B623\FuzzySelector\Client\bin\Release\Client.exe
+G:\Licenta B623\FuzzySelector\Client\bin\Release\Client.pdb
+G:\Licenta B623\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.dll
+G:\Licenta B623\FuzzySelector\Client\bin\Release\ZedGraph.dll
+G:\Licenta B623\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.pdb
+G:\Licenta B623\FuzzySelector\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+G:\Licenta B623\FuzzySelector\Client\obj\Release\ResolveAssemblyReference.cache
+G:\Licenta B623\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.resources
+G:\Licenta B623\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+G:\Licenta B623\FuzzySelector\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\Client\bin\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\Client\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 3\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 3\FuzzySelector\Client\obj\Release\Client.exe
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 3\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\Client\obj\Release\Client.exe
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\Client\bin\Release\Client.exe
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\Client\bin\Release\Client.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\Client\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientResultsForm.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\Client\obj\Release\FuzzySelector.Client.WSDLConnectorForm.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\Client\bin\Release\Client.exe.config
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\Client\obj\Release\Client.exe
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\Client\obj\Release\Client.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\Client\obj\Release\FuzzySelector.Client.ClientResultsForm.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\Client\obj\Release\FuzzySelector.Client.WSDLConnectorForm.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\Client\bin\Release\Client.exe
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\Client\bin\Release\Client.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\Client\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\Client\bin\Release\Client.exe
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\Client\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\Client\obj\Release\FuzzySelector.Client.ClientResultsForm.resources
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\Client\obj\Release\FuzzySelector.Client.WSDLConnectorForm.resources
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\Client\obj\Release\Client.csproj.GenerateResource.Cache
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\bin\Release\Client.exe.config
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\obj\Release\Client.exe
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\obj\Release\Client.pdb
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\bin\Release\Client.exe
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\bin\Release\Client.pdb
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\bin\Release\FuzzySelectorCommon.dll
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\bin\Release\ZedGraph.dll
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\bin\Release\FuzzySelectorCommon.pdb
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\obj\Release\ResolveAssemblyReference.cache
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\obj\Release\Client.resx.ClientStrings.resources
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\obj\Release\FuzzySelector.Client.ClientResultsForm.resources
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\obj\Release\FuzzySelector.Client.WSDLConnectorForm.resources
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\FuzzySelectors 2\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\FuzzySelectors 2\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\FuzzySelectors 2\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\FuzzySelectors 6\FuzzySelector MI Client\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\Client\bin\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\Client\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\Client\obj\Release\FuzzySelector.Client.WSDLConnectorForm.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\Client\bin\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\Client\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\Client\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\Client\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\Client\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\Client\obj\Release\Client.resx.ClientStrings.resources
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\Client\obj\Release\FuzzySelector.Client.ClientForm.resources
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\Client\obj\Release\FuzzySelector.Client.WSDLConnectorForm.resources
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\Prezentare Practica Licenta\FuzzySelector MI Client\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\Prezentare Practica Licenta\FuzzySelector MI Client\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\Prezentare Practica Licenta\FuzzySelector MI Client\Client\obj\Release\Client.pdb

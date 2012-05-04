@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<properties>
+	<property name="Availability" composition="statistical">
+      <term name="Low"/>
+      <term name="Normal"/>
+      <term name="High"/>
+    </property>
+    <property name="ResponseTime" composition="average">
+      <term name="Slow"/>
+      <term name="Normal"/>
+      <term name="Fast"/>
+    </property>
+    <property name="Cost" composition="cumulative">
+      <term name="Expensive"/>
+      <term name="Normal"/>
+      <term name="Cheap"/>
+    </property>
+    <property name="PublisherReputation" composition="average">
+      <term name="Low"/>
+      <term name="Normal"/>
+      <term name="High"/>
+    </property>
+    <property name="UserRating" composition="average">
+      <term name="Low"/>
+      <term name="Medium"/>
+      <term name="High"/>
+    </property>
+    <property name="UpdatesPerDay" composition="cumulative">
+      <term name="Low"/>
+      <term name="Normal"/>
+      <term name="High"/>
+    </property>
+    <property name="RequestLimitPerDay" composition="cumulative">
+      <term name="Low"/>
+      <term name="Normal"/>
+      <term name="High"/>
+    </property>
+</properties>

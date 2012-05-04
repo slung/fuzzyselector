@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FuzzySelector">
+</Property><Property Name="Solution File" Value="D:\Disertatie\Project\FuzzySelector\FuzzySelector.sln">
+</Property><Property Name="Date" Value="17 April 2012">
+</Property><Property Name="Time" Value="22:06">
+</Property></Properties><Event ErrorLevel="1" Project="DomainOntologyService" Source="DomainOntologyService\DomainOntologyService.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="DomainOntologyService" Source="DomainOntologyService\DomainOntologyService.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DomainOntologyService" Source="DomainOntologyService\DomainOntologyService.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Client" Source="Client\Client.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Client" Source="Client\Client.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="FunctionalityFindingService" Source="FunctionalityFindingService\FunctionalityFindingService.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="FunctionalityFindingService" Source="FunctionalityFindingService\FunctionalityFindingService.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FunctionalityFindingService" Source="FunctionalityFindingService\FunctionalityFindingService.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="FuzzySelectorCommon" Source="FuzzySelectorCommon\FuzzySelectorCommon.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="FuzzySelectorCommon" Source="FuzzySelectorCommon\FuzzySelectorCommon.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FuzzySelectorCommon" Source="FuzzySelectorCommon\FuzzySelectorCommon.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SmartSpammer" Source="SmartSpammer\SmartSpammer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SmartSpammer" Source="SmartSpammer\SmartSpammer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UDDIConnector" Source="UDDIConnector\UDDIConnector.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UDDIConnector" Source="UDDIConnector\UDDIConnector.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FuzzySelector.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FuzzySelector.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DomainOntologyService" Source="DomainOntologyService\DomainOntologyService.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="FunctionalityFindingService" Source="FunctionalityFindingService\FunctionalityFindingService.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="FuzzySelectorCommon" Source="FuzzySelectorCommon\FuzzySelectorCommon.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SmartSpammer" Source="SmartSpammer\SmartSpammer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="UDDIConnector" Source="UDDIConnector\UDDIConnector.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,32 @@
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\bin\Release\UDDIConnector.exe
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\bin\Release\UDDIConnector.pdb
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Release\UDDIConnector.ConnectionForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Release\UDDIConnector.ServiceProviderForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Release\UDDIConnector.UpdateForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Release\UDDIConnector.PublishServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Release\UDDIConnector.PublishOntologyForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Release\UDDIConnector.SearchOntologyForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Release\UDDIConnector.SearchServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Release\UDDIConnector.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Release\UDDIConnector.exe
+C:\Users\Administrator\Desktop\Licenta 7\UDDI\UDDIConnector\obj\Release\UDDIConnector.pdb
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\bin\Release\UDDIConnector.exe.config
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\obj\Release\UDDIConnector.exe
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\obj\Release\UDDIConnector.pdb
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\bin\Release\UDDIConnector.exe
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\bin\Release\UDDIConnector.pdb
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\obj\Release\UDDIConnector.ConnectionForm.resources
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\obj\Release\UDDIConnector.ProviderForm.resources
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\obj\Release\UDDIConnector.UpdateForm.resources
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\obj\Release\UDDIConnector.PublishServiceForm.resources
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\obj\Release\UDDIConnector.PublishOntologyForm.resources
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\obj\Release\UDDIConnector.SearchOntologyForm.resources
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\obj\Release\UDDIConnector.SearchServiceForm.resources
+C:\Users\Administrator\Desktop\UDDI\UDDIConnector\obj\Release\UDDIConnector.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Prezentare Practica Licenta\FuzzySelector MI Client\UDDIConnector\bin\Release\UDDIConnector.exe.config
+C:\Users\Administrator\Desktop\Prezentare Practica Licenta\FuzzySelector MI Client\UDDIConnector\obj\Release\UDDIConnector.exe
+C:\Users\Administrator\Desktop\Prezentare Practica Licenta\FuzzySelector MI Client\UDDIConnector\obj\Release\UDDIConnector.pdb

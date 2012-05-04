@@ -1,0 +1,349 @@
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\bin\Release\resx\ontologies\Compressor.xml
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\bin\Release\resx\ontologies\Procesor.xml
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\bin\Release\resx\ontologies\Stock Market.xml
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\bin\Release\ro-RO\DomainOntologyService.resources.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\obj\Release\DomainOntologyService.Properties.Resources.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.ro-RO.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\obj\Release\ro-RO\DomainOntologyService.resources.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\resx\ontologies\Compressor.xml
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\resx\ontologies\Procesor.xml
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\resx\ontologies\Stock Market.xml
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\ro-RO\DomainOntologyService.resources.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.Properties.Resources.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.ro-RO.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\ro-RO\DomainOntologyService.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\ro-RO\DomainOntologyService.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.ro-RO.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\obj\Release\ro-RO\DomainOntologyService.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\resx\ontologies\Processor.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\DomainOntologyService\bin\Release\resx\ontologies\StockMarket.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\bin\Release\resx\ontologies\Processor.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\bin\Release\resx\ontologies\StockMarket.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\bin\Release\ro-RO\DomainOntologyService.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.ro-RO.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\DomainOntologyService\obj\Release\ro-RO\DomainOntologyService.resources.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\resx\ontologies\Processor.xml
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\resx\ontologies\StockMarket.xml
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\ro-RO\DomainOntologyService.resources.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.ro-RO.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\ro-RO\DomainOntologyService.resources.dll
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\resx\ontologies\Processor.xml
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\resx\ontologies\StockMarket.xml
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\ro-RO\DomainOntologyService.resources.dll
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.ro-RO.resources
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Desktop\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\ro-RO\DomainOntologyService.resources.dll
+C:\Users\ioana\Silviu\FuzzySelector 2\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\ioana\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\ioana\Silviu\FuzzySelector 2\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\bin\Release\resx\ontologies\Processor.xml
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\bin\Release\resx\ontologies\StockMarket.xml
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\bin\Release\ro-RO\DomainOntologyService.resources.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.ro-RO.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\DomainOntologyService\obj\Release\ro-RO\DomainOntologyService.resources.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 6\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta 6\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 6\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 11\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+G:\Licenta B623\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+G:\Licenta B623\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+G:\Licenta B623\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta B623\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 3\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\FuzzySelectors\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.exe
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\DomainOntologyService.exe
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\ZedGraph.dll
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+D:\Licenta\FuzzySelectors 2\FuzzySelectors 2\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+D:\Licenta\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+D:\Licenta\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.exe
+D:\Licenta\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\bin\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\bin\Release\DomainOntologyService.pdb
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\bin\Release\Microsoft.Uddi.dll
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\obj\Release\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Prezentare Practica Licenta\FuzzySelector MI Client\DomainOntologyService\bin\Release\DomainOntologyService.exe.config
+C:\Users\Administrator\Desktop\Prezentare Practica Licenta\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.exe
+C:\Users\Administrator\Desktop\Prezentare Practica Licenta\FuzzySelector MI Client\DomainOntologyService\obj\Release\DomainOntologyService.pdb

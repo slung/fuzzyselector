@@ -1,0 +1,205 @@
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FuzzySelectorCommon\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.ResultForm.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.ro-RO.resources
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FuzzySelectorCommon\obj\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Users\ioana\CatalinAvram\CD\Aplicatiile de Cercetare\Surse\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.ResultForm.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Documents and Settings\Gabriel\My Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.ro-RO.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.ResultForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.ro-RO.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FuzzySelectorCommon\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.ResultForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.ro-RO.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FuzzySelectorCommon\obj\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FuzzySelector 2\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FuzzySelectorCommon\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.ResultForm.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.ro-RO.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FuzzySelectorCommon\obj\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.src.GraphicVisualizer.ResultForm2.resources
+C:\Users\Administrator\Desktop\Silviu\FuzzySelector 2\FuzzySelectorCommon\obj\Release\WSDLConnector.WSDLReaderForm.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FuzzySelectorCommon\bin\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.ResultForm.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FuzzySelectorCommon\obj\Release\WSDLConnector.WSDLReaderForm.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.ro-RO.resources
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FuzzySelectorCommon\obj\Release\ro-RO\FuzzySelectorCommon.resources.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 3\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.ResultForm.resources
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FuzzySelectorCommon\obj\Release\WSDLConnector.WSDLReaderForm.resources
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 4\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.ResultForm.resources
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FuzzySelectorCommon\obj\Release\WSDLConnector.WSDLReaderForm.resources
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 5\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.ResultForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FuzzySelectorCommon\obj\Release\WSDLConnector.WSDLReaderForm.resources
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 7\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.ResultForm.resources
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FuzzySelectorCommon\obj\Release\WSDLConnector.WSDLReaderForm.resources
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 8\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.ResultForm.resources
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\FuzzySelectorCommon\obj\Release\WSDLConnector.WSDLReaderForm.resources
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 9\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.ResultForm.resources
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FuzzySelectorCommon\obj\Release\WSDLConnector.WSDLReaderForm.resources
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 10\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.ResultForm.resources
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FuzzySelectorCommon\obj\Release\WSDLConnector.WSDLReaderForm.resources
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.ResultForm.resources
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FuzzySelectorCommon\obj\Release\WSDLConnector.WSDLReaderForm.resources
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta B623 3\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 4\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Documents and Settings\Gabriel\Desktop\Licenta B623 5\FuzzySelector\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 2\FuzzySelector MI Client\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FuzzySelectorCommon\bin\Release\FuzzySelectorCommon.pdb
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FuzzySelectorCommon\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FuzzySelectorCommon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FuzzySelectorCommon\obj\Release\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.dll
+C:\Users\Administrator\Desktop\Licenta 4S\FuzzySelector MI Client\FuzzySelectorCommon\obj\Release\FuzzySelectorCommon.pdb
