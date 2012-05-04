@@ -19,7 +19,7 @@ namespace UDDIConnector
     public partial class CreateOntologyForm : Form
     {
         private readonly string propertiesFilePath = "./resx/properties.xml";
-        private OntologyProperties availableOntologyProperties;
+        private Properties availableProperties;
         /// <summary>
         ///   Informatii privind conexiunea la serverul UDDI.
         /// </summary>
@@ -28,15 +28,15 @@ namespace UDDIConnector
         public CreateOntologyForm(UddiConnection uddiConnection)
         {
             this.uddiConnection = uddiConnection;
-            this.availableOntologyProperties = new OntologyProperties();
+            this.availableProperties = new Properties();
 
             InitializeComponent();
 
-            SetOntologyProperties();
+            SetProperties();
             PopulateWithAvailableProperties();
         }
 
-        private void SetOntologyProperties()
+        private void SetProperties()
         {
             XMLElement root = XMLParser.parse(propertiesFilePath);
 
@@ -65,7 +65,25 @@ namespace UDDIConnector
                             return;
                         }
 
-                        this.availableOntologyProperties.AddProperty(new OntologyProperty(propertyName, OntologyProperty.GetCompositionMethodFromString(composition)));
+                        if (property.containsElements("term"))
+                        {
+                            List<XMLElement> xmlTerms = property.getElements("term");
+                            List<Term> terms = new List<Term>();
+
+                            foreach (XMLElement term in xmlTerms)
+	                        {
+		                        if (term.containsAttribute("name"))
+                                {
+                                    terms.Add(new Term(term.getAttribute("name")));
+                                }
+	                        }
+
+                            this.availableProperties.AddProperty(new Property(propertyName, Property.GetCompositionMethodFromString(composition), terms));
+                        }
+                        else
+                        {
+                            return;
+                        }
                     }
                 }
             }
@@ -73,7 +91,7 @@ namespace UDDIConnector
 
         private void PopulateWithAvailableProperties()
         {
-            this.lbAvailableProperties.Items.AddRange(this.availableOntologyProperties.properties);//.DataSource = this.availableOntologyProperties.properties;
+            this.lbAvailableProperties.Items.AddRange(this.availableProperties.properties);//.DataSource = this.availableOntologyProperties.properties;
             this.lbAvailableProperties.SetSelected(0, true);
         }
 
@@ -149,7 +167,7 @@ namespace UDDIConnector
 
         private void lbSelectedProperties_SelectedIndexChanged(object sender, EventArgs e)
         {
-            OntologyProperty selectedItem = (OntologyProperty)this.lbSelectedProperties.SelectedItem;
+            Property selectedItem = (Property)this.lbSelectedProperties.SelectedItem;
         }
     }
 }

@@ -73,9 +73,8 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="src\Ontology\Functionality.cs" />
-    <Compile Include="src\Ontology\OntologyProperties.cs" />
-    <Compile Include="src\Ontology\OntologyProperty.cs" />
-    <Compile Include="src\Ontology\FunctionalityProperty.cs" />
+    <Compile Include="src\Ontology\Properties.cs" />
+    <Compile Include="src\Ontology\Property.cs" />
     <Compile Include="src\Ontology\RequestShape.cs" />
     <Compile Include="src\Ontology\Term.cs" />
     <Compile Include="src\XML\XMLElement.cs" />

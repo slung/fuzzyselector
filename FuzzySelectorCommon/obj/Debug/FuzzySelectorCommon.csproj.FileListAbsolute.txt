@@ -59,3 +59,13 @@ D:\Disertatie\Project\FuzzySelector\FuzzySelectorCommon\obj\Debug\GenerateResour
 D:\Disertatie\Project\FuzzySelector\FuzzySelectorCommon\obj\Debug\GenerateResource-ResGen.write.1.tlog
 D:\Disertatie\Project\FuzzySelector\FuzzySelectorCommon\obj\Debug\FuzzySelectorCommon.dll
 D:\Disertatie\Project\FuzzySelector\FuzzySelectorCommon\obj\Debug\FuzzySelectorCommon.pdb
+D:\Silviu\Projects\FuzzySelector\FuzzySelectorCommon\bin\Debug\FuzzySelectorCommon.dll
+D:\Silviu\Projects\FuzzySelector\FuzzySelectorCommon\bin\Debug\FuzzySelectorCommon.pdb
+D:\Silviu\Projects\FuzzySelector\FuzzySelectorCommon\bin\Debug\ZedGraph.dll
+D:\Silviu\Projects\FuzzySelector\FuzzySelectorCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\Silviu\Projects\FuzzySelector\FuzzySelectorCommon\obj\Debug\FuzzySelectorCommon.resx.FuzzySelectorCommonStrings.resources
+D:\Silviu\Projects\FuzzySelector\FuzzySelectorCommon\obj\Debug\FuzzySelector.Common.GraphicVisualizer.GraphicVisualizerForm.resources
+D:\Silviu\Projects\FuzzySelector\FuzzySelectorCommon\obj\Debug\ResGen.read.1.tlog
+D:\Silviu\Projects\FuzzySelector\FuzzySelectorCommon\obj\Debug\ResGen.write.1.tlog
+D:\Silviu\Projects\FuzzySelector\FuzzySelectorCommon\obj\Debug\FuzzySelectorCommon.dll
+D:\Silviu\Projects\FuzzySelector\FuzzySelectorCommon\obj\Debug\FuzzySelectorCommon.pdb

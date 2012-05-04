@@ -41,31 +41,11 @@
             this.button1 = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.gbTerms = new System.Windows.Forms.GroupBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.tbOntologyStart = new System.Windows.Forms.TextBox();
             this.tbOntologyEnd = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.tbTermName0 = new System.Windows.Forms.TextBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.tbTermStart0 = new System.Windows.Forms.TextBox();
-            this.tbTermLeft0 = new System.Windows.Forms.TextBox();
-            this.tbTermRight0 = new System.Windows.Forms.TextBox();
-            this.tbTermEnd0 = new System.Windows.Forms.TextBox();
-            this.tbTermEnd1 = new System.Windows.Forms.TextBox();
-            this.tbTermRight1 = new System.Windows.Forms.TextBox();
-            this.tbTermLeft1 = new System.Windows.Forms.TextBox();
-            this.tbTermStart1 = new System.Windows.Forms.TextBox();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.tbTermName1 = new System.Windows.Forms.TextBox();
-            this.label15 = new System.Windows.Forms.Label();
+            this.tbOntologyStart = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.gbTerms = new System.Windows.Forms.GroupBox();
             this.tbTermEnd2 = new System.Windows.Forms.TextBox();
             this.tbTermRight2 = new System.Windows.Forms.TextBox();
             this.tbTermLeft2 = new System.Windows.Forms.TextBox();
@@ -76,6 +56,26 @@
             this.label19 = new System.Windows.Forms.Label();
             this.tbTermName2 = new System.Windows.Forms.TextBox();
             this.label20 = new System.Windows.Forms.Label();
+            this.tbTermEnd1 = new System.Windows.Forms.TextBox();
+            this.tbTermRight1 = new System.Windows.Forms.TextBox();
+            this.tbTermLeft1 = new System.Windows.Forms.TextBox();
+            this.tbTermStart1 = new System.Windows.Forms.TextBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.tbTermName1 = new System.Windows.Forms.TextBox();
+            this.label15 = new System.Windows.Forms.Label();
+            this.tbTermEnd0 = new System.Windows.Forms.TextBox();
+            this.tbTermRight0 = new System.Windows.Forms.TextBox();
+            this.tbTermLeft0 = new System.Windows.Forms.TextBox();
+            this.tbTermStart0 = new System.Windows.Forms.TextBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.tbTermName0 = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.gbTerms.SuspendLayout();
@@ -176,6 +176,7 @@
             // 
             // button1
             // 
+            this.button1.Enabled = false;
             this.button1.Location = new System.Drawing.Point(502, 469);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(112, 30);
@@ -215,6 +216,38 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Details";
             // 
+            // tbOntologyEnd
+            // 
+            this.tbOntologyEnd.Location = new System.Drawing.Point(368, 23);
+            this.tbOntologyEnd.Name = "tbOntologyEnd";
+            this.tbOntologyEnd.Size = new System.Drawing.Size(188, 20);
+            this.tbOntologyEnd.TabIndex = 4;
+            // 
+            // tbOntologyStart
+            // 
+            this.tbOntologyStart.Location = new System.Drawing.Point(64, 23);
+            this.tbOntologyStart.Name = "tbOntologyStart";
+            this.tbOntologyStart.Size = new System.Drawing.Size(174, 20);
+            this.tbOntologyStart.TabIndex = 3;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(333, 26);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(29, 13);
+            this.label5.TabIndex = 2;
+            this.label5.Text = "End:";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(26, 26);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(32, 13);
+            this.label4.TabIndex = 1;
+            this.label4.Text = "Start:";
+            // 
             // gbTerms
             // 
             this.gbTerms.Controls.Add(this.tbTermEnd2);
@@ -253,200 +286,6 @@
             this.gbTerms.TabIndex = 0;
             this.gbTerms.TabStop = false;
             this.gbTerms.Text = "Terms";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(26, 26);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(32, 13);
-            this.label4.TabIndex = 1;
-            this.label4.Text = "Start:";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(333, 26);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(29, 13);
-            this.label5.TabIndex = 2;
-            this.label5.Text = "End:";
-            // 
-            // tbOntologyStart
-            // 
-            this.tbOntologyStart.Location = new System.Drawing.Point(64, 23);
-            this.tbOntologyStart.Name = "tbOntologyStart";
-            this.tbOntologyStart.Size = new System.Drawing.Size(174, 20);
-            this.tbOntologyStart.TabIndex = 3;
-            // 
-            // tbOntologyEnd
-            // 
-            this.tbOntologyEnd.Location = new System.Drawing.Point(368, 23);
-            this.tbOntologyEnd.Name = "tbOntologyEnd";
-            this.tbOntologyEnd.Size = new System.Drawing.Size(188, 20);
-            this.tbOntologyEnd.TabIndex = 4;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(8, 28);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(38, 13);
-            this.label6.TabIndex = 0;
-            this.label6.Text = "Name:";
-            // 
-            // tbTermName0
-            // 
-            this.tbTermName0.Location = new System.Drawing.Point(52, 25);
-            this.tbTermName0.Name = "tbTermName0";
-            this.tbTermName0.ReadOnly = true;
-            this.tbTermName0.Size = new System.Drawing.Size(100, 20);
-            this.tbTermName0.TabIndex = 1;
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(158, 28);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(32, 13);
-            this.label7.TabIndex = 2;
-            this.label7.Text = "Start:";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(438, 28);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(29, 13);
-            this.label8.TabIndex = 3;
-            this.label8.Text = "End:";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(249, 28);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(28, 13);
-            this.label9.TabIndex = 4;
-            this.label9.Text = "Left:";
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(337, 28);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(35, 13);
-            this.label10.TabIndex = 5;
-            this.label10.Text = "Right:";
-            // 
-            // tbTermStart0
-            // 
-            this.tbTermStart0.Location = new System.Drawing.Point(189, 25);
-            this.tbTermStart0.Name = "tbTermStart0";
-            this.tbTermStart0.Size = new System.Drawing.Size(54, 20);
-            this.tbTermStart0.TabIndex = 5;
-            // 
-            // tbTermLeft0
-            // 
-            this.tbTermLeft0.Location = new System.Drawing.Point(277, 25);
-            this.tbTermLeft0.Name = "tbTermLeft0";
-            this.tbTermLeft0.Size = new System.Drawing.Size(54, 20);
-            this.tbTermLeft0.TabIndex = 6;
-            // 
-            // tbTermRight0
-            // 
-            this.tbTermRight0.Location = new System.Drawing.Point(378, 25);
-            this.tbTermRight0.Name = "tbTermRight0";
-            this.tbTermRight0.Size = new System.Drawing.Size(54, 20);
-            this.tbTermRight0.TabIndex = 7;
-            // 
-            // tbTermEnd0
-            // 
-            this.tbTermEnd0.Location = new System.Drawing.Point(473, 25);
-            this.tbTermEnd0.Name = "tbTermEnd0";
-            this.tbTermEnd0.Size = new System.Drawing.Size(54, 20);
-            this.tbTermEnd0.TabIndex = 8;
-            // 
-            // tbTermEnd1
-            // 
-            this.tbTermEnd1.Location = new System.Drawing.Point(473, 66);
-            this.tbTermEnd1.Name = "tbTermEnd1";
-            this.tbTermEnd1.Size = new System.Drawing.Size(54, 20);
-            this.tbTermEnd1.TabIndex = 18;
-            // 
-            // tbTermRight1
-            // 
-            this.tbTermRight1.Location = new System.Drawing.Point(378, 66);
-            this.tbTermRight1.Name = "tbTermRight1";
-            this.tbTermRight1.Size = new System.Drawing.Size(54, 20);
-            this.tbTermRight1.TabIndex = 17;
-            // 
-            // tbTermLeft1
-            // 
-            this.tbTermLeft1.Location = new System.Drawing.Point(277, 66);
-            this.tbTermLeft1.Name = "tbTermLeft1";
-            this.tbTermLeft1.Size = new System.Drawing.Size(54, 20);
-            this.tbTermLeft1.TabIndex = 16;
-            // 
-            // tbTermStart1
-            // 
-            this.tbTermStart1.Location = new System.Drawing.Point(189, 66);
-            this.tbTermStart1.Name = "tbTermStart1";
-            this.tbTermStart1.Size = new System.Drawing.Size(54, 20);
-            this.tbTermStart1.TabIndex = 14;
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(337, 69);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(35, 13);
-            this.label11.TabIndex = 15;
-            this.label11.Text = "Right:";
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(249, 69);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(28, 13);
-            this.label12.TabIndex = 13;
-            this.label12.Text = "Left:";
-            // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(438, 69);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(29, 13);
-            this.label13.TabIndex = 12;
-            this.label13.Text = "End:";
-            // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(158, 69);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(32, 13);
-            this.label14.TabIndex = 11;
-            this.label14.Text = "Start:";
-            // 
-            // tbTermName1
-            // 
-            this.tbTermName1.Location = new System.Drawing.Point(52, 66);
-            this.tbTermName1.Name = "tbTermName1";
-            this.tbTermName1.ReadOnly = true;
-            this.tbTermName1.Size = new System.Drawing.Size(100, 20);
-            this.tbTermName1.TabIndex = 10;
-            // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(8, 69);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(38, 13);
-            this.label15.TabIndex = 9;
-            this.label15.Text = "Name:";
             // 
             // tbTermEnd2
             // 
@@ -528,6 +367,168 @@
             this.label20.Size = new System.Drawing.Size(38, 13);
             this.label20.TabIndex = 19;
             this.label20.Text = "Name:";
+            // 
+            // tbTermEnd1
+            // 
+            this.tbTermEnd1.Location = new System.Drawing.Point(473, 64);
+            this.tbTermEnd1.Name = "tbTermEnd1";
+            this.tbTermEnd1.Size = new System.Drawing.Size(54, 20);
+            this.tbTermEnd1.TabIndex = 18;
+            // 
+            // tbTermRight1
+            // 
+            this.tbTermRight1.Location = new System.Drawing.Point(378, 64);
+            this.tbTermRight1.Name = "tbTermRight1";
+            this.tbTermRight1.Size = new System.Drawing.Size(54, 20);
+            this.tbTermRight1.TabIndex = 17;
+            // 
+            // tbTermLeft1
+            // 
+            this.tbTermLeft1.Location = new System.Drawing.Point(277, 64);
+            this.tbTermLeft1.Name = "tbTermLeft1";
+            this.tbTermLeft1.Size = new System.Drawing.Size(54, 20);
+            this.tbTermLeft1.TabIndex = 16;
+            // 
+            // tbTermStart1
+            // 
+            this.tbTermStart1.Location = new System.Drawing.Point(189, 64);
+            this.tbTermStart1.Name = "tbTermStart1";
+            this.tbTermStart1.Size = new System.Drawing.Size(54, 20);
+            this.tbTermStart1.TabIndex = 14;
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(337, 67);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(35, 13);
+            this.label11.TabIndex = 15;
+            this.label11.Text = "Right:";
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(249, 67);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(28, 13);
+            this.label12.TabIndex = 13;
+            this.label12.Text = "Left:";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Location = new System.Drawing.Point(438, 67);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(29, 13);
+            this.label13.TabIndex = 12;
+            this.label13.Text = "End:";
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Location = new System.Drawing.Point(158, 67);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(32, 13);
+            this.label14.TabIndex = 11;
+            this.label14.Text = "Start:";
+            // 
+            // tbTermName1
+            // 
+            this.tbTermName1.Location = new System.Drawing.Point(52, 64);
+            this.tbTermName1.Name = "tbTermName1";
+            this.tbTermName1.ReadOnly = true;
+            this.tbTermName1.Size = new System.Drawing.Size(100, 20);
+            this.tbTermName1.TabIndex = 10;
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Location = new System.Drawing.Point(8, 67);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(38, 13);
+            this.label15.TabIndex = 9;
+            this.label15.Text = "Name:";
+            // 
+            // tbTermEnd0
+            // 
+            this.tbTermEnd0.Location = new System.Drawing.Point(473, 25);
+            this.tbTermEnd0.Name = "tbTermEnd0";
+            this.tbTermEnd0.Size = new System.Drawing.Size(54, 20);
+            this.tbTermEnd0.TabIndex = 8;
+            // 
+            // tbTermRight0
+            // 
+            this.tbTermRight0.Location = new System.Drawing.Point(378, 25);
+            this.tbTermRight0.Name = "tbTermRight0";
+            this.tbTermRight0.Size = new System.Drawing.Size(54, 20);
+            this.tbTermRight0.TabIndex = 7;
+            // 
+            // tbTermLeft0
+            // 
+            this.tbTermLeft0.Location = new System.Drawing.Point(277, 25);
+            this.tbTermLeft0.Name = "tbTermLeft0";
+            this.tbTermLeft0.Size = new System.Drawing.Size(54, 20);
+            this.tbTermLeft0.TabIndex = 6;
+            // 
+            // tbTermStart0
+            // 
+            this.tbTermStart0.Location = new System.Drawing.Point(189, 25);
+            this.tbTermStart0.Name = "tbTermStart0";
+            this.tbTermStart0.Size = new System.Drawing.Size(54, 20);
+            this.tbTermStart0.TabIndex = 5;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(337, 28);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(35, 13);
+            this.label10.TabIndex = 5;
+            this.label10.Text = "Right:";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(249, 28);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(28, 13);
+            this.label9.TabIndex = 4;
+            this.label9.Text = "Left:";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(438, 28);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(29, 13);
+            this.label8.TabIndex = 3;
+            this.label8.Text = "End:";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(158, 28);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(32, 13);
+            this.label7.TabIndex = 2;
+            this.label7.Text = "Start:";
+            // 
+            // tbTermName0
+            // 
+            this.tbTermName0.Location = new System.Drawing.Point(52, 25);
+            this.tbTermName0.Name = "tbTermName0";
+            this.tbTermName0.ReadOnly = true;
+            this.tbTermName0.Size = new System.Drawing.Size(100, 20);
+            this.tbTermName0.TabIndex = 1;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(8, 28);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(38, 13);
+            this.label6.TabIndex = 0;
+            this.label6.Text = "Name:";
             // 
             // CreateOntologyForm
             // 

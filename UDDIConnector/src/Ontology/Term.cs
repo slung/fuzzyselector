@@ -23,22 +23,21 @@
         /// </summary>
         public readonly bool failedAParse = false;
 
-        public Term(string name, string start, string left, string right, string end)
+        public Term(string name)
         {
-
             this.name = name;
+        }
 
+        public Term(string name, string start, string left, string right, string end) : this(name)
+        {
             this.failedAParse |= !double.TryParse(start, out this.start);
             this.failedAParse |= !double.TryParse(left, out this.left);
             this.failedAParse |= !double.TryParse(right, out this.right);
             this.failedAParse |= !double.TryParse(end, out this.end);
         }
 
-        public Term(string name, double start, double left, double right, double end)
+        public Term(string name, double start, double left, double right, double end) : this(name)
         {
-
-            this.name = name;
-
             this.start = start;
             this.left = left;
             this.right = right;
@@ -50,7 +49,7 @@
         /// </summary>
         /// <param name="property">Proprietatea a cărui domeniu trebuie respectat.</param>
         /// <returns>Termenul nou ce respectă limitele.</returns>
-        public Term getCompliant(FunctionalityProperty property)
+        public Term getCompliant(Property property)
         {
 
             if (property == null || double.IsNaN(property.start) || double.IsNaN(property.end) || double.IsNaN(this.start) || double.IsNaN(this.left) || double.IsNaN(this.right) || double.IsNaN(this.end))

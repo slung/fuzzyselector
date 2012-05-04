@@ -93,5 +93,16 @@ D:\Disertatie\Project\FuzzySelector\FunctionalityFindingService\obj\Debug\Genera
 D:\Disertatie\Project\FuzzySelector\FunctionalityFindingService\obj\Debug\FunctionalityFindingService.exe
 D:\Disertatie\Project\FuzzySelector\FunctionalityFindingService\obj\Debug\FunctionalityFindingService.pdb
 D:\Silviu\Projects\FuzzySelector\FunctionalityFindingService\bin\Debug\FunctionalityFindingService.exe.config
+D:\Silviu\Projects\FuzzySelector\FunctionalityFindingService\bin\Debug\FunctionalityFindingService.exe
+D:\Silviu\Projects\FuzzySelector\FunctionalityFindingService\bin\Debug\FunctionalityFindingService.pdb
+D:\Silviu\Projects\FuzzySelector\FunctionalityFindingService\bin\Debug\FuzzySelectorCommon.dll
+D:\Silviu\Projects\FuzzySelector\FunctionalityFindingService\bin\Debug\Microsoft.Uddi.dll
+D:\Silviu\Projects\FuzzySelector\FunctionalityFindingService\bin\Debug\ZedGraph.dll
+D:\Silviu\Projects\FuzzySelector\FunctionalityFindingService\bin\Debug\FuzzySelectorCommon.pdb
+D:\Silviu\Projects\FuzzySelector\FunctionalityFindingService\obj\Debug\ResolveAssemblyReference.cache
+D:\Silviu\Projects\FuzzySelector\FunctionalityFindingService\obj\Debug\FunctionalityFindingService.resx.FunctionalityFindingServiceStrings.resources
+D:\Silviu\Projects\FuzzySelector\FunctionalityFindingService\obj\Debug\FuzzySelector.FunctionalityFindingService.FunctionalityFindingServiceForm.resources
+D:\Silviu\Projects\FuzzySelector\FunctionalityFindingService\obj\Debug\ResGen.read.1.tlog
+D:\Silviu\Projects\FuzzySelector\FunctionalityFindingService\obj\Debug\ResGen.write.1.tlog
 D:\Silviu\Projects\FuzzySelector\FunctionalityFindingService\obj\Debug\FunctionalityFindingService.exe
 D:\Silviu\Projects\FuzzySelector\FunctionalityFindingService\obj\Debug\FunctionalityFindingService.pdb

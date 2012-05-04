@@ -87,3 +87,17 @@ D:\Disertatie\Project\FuzzySelector\Client\obj\Debug\GenerateResource-ResGen.rea
 D:\Disertatie\Project\FuzzySelector\Client\obj\Debug\GenerateResource-ResGen.write.1.tlog
 D:\Disertatie\Project\FuzzySelector\Client\obj\Debug\Client.exe
 D:\Disertatie\Project\FuzzySelector\Client\obj\Debug\Client.pdb
+D:\Silviu\Projects\FuzzySelector\Client\bin\Debug\Client.exe.config
+D:\Silviu\Projects\FuzzySelector\Client\bin\Debug\Client.exe
+D:\Silviu\Projects\FuzzySelector\Client\bin\Debug\Client.pdb
+D:\Silviu\Projects\FuzzySelector\Client\bin\Debug\FuzzySelectorCommon.dll
+D:\Silviu\Projects\FuzzySelector\Client\bin\Debug\ZedGraph.dll
+D:\Silviu\Projects\FuzzySelector\Client\bin\Debug\FuzzySelectorCommon.pdb
+D:\Silviu\Projects\FuzzySelector\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Silviu\Projects\FuzzySelector\Client\obj\Debug\Client.resx.ClientStrings.resources
+D:\Silviu\Projects\FuzzySelector\Client\obj\Debug\FuzzySelector.Client.ClientForm.resources
+D:\Silviu\Projects\FuzzySelector\Client\obj\Debug\FuzzySelector.Client.WSDLConnectorForm.resources
+D:\Silviu\Projects\FuzzySelector\Client\obj\Debug\ResGen.read.1.tlog
+D:\Silviu\Projects\FuzzySelector\Client\obj\Debug\ResGen.write.1.tlog
+D:\Silviu\Projects\FuzzySelector\Client\obj\Debug\Client.exe
+D:\Silviu\Projects\FuzzySelector\Client\obj\Debug\Client.pdb

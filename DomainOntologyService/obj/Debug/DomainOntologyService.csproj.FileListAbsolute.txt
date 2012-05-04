@@ -97,5 +97,16 @@ D:\Disertatie\Project\FuzzySelector\DomainOntologyService\obj\Debug\FuzzySelecto
 D:\Disertatie\Project\FuzzySelector\DomainOntologyService\obj\Debug\GenerateResource-ResGen.read.1.tlog
 D:\Disertatie\Project\FuzzySelector\DomainOntologyService\obj\Debug\GenerateResource-ResGen.write.1.tlog
 D:\Silviu\Projects\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.exe.config
+D:\Silviu\Projects\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.exe
+D:\Silviu\Projects\FuzzySelector\DomainOntologyService\bin\Debug\DomainOntologyService.pdb
+D:\Silviu\Projects\FuzzySelector\DomainOntologyService\bin\Debug\FuzzySelectorCommon.dll
+D:\Silviu\Projects\FuzzySelector\DomainOntologyService\bin\Debug\Microsoft.Uddi.dll
+D:\Silviu\Projects\FuzzySelector\DomainOntologyService\bin\Debug\ZedGraph.dll
+D:\Silviu\Projects\FuzzySelector\DomainOntologyService\bin\Debug\FuzzySelectorCommon.pdb
+D:\Silviu\Projects\FuzzySelector\DomainOntologyService\obj\Debug\ResolveAssemblyReference.cache
+D:\Silviu\Projects\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.resx.DomainOntologyServiceStrings.resources
+D:\Silviu\Projects\FuzzySelector\DomainOntologyService\obj\Debug\FuzzySelector.DomainOntologyService.DomainOntologyServiceForm.resources
+D:\Silviu\Projects\FuzzySelector\DomainOntologyService\obj\Debug\ResGen.read.1.tlog
+D:\Silviu\Projects\FuzzySelector\DomainOntologyService\obj\Debug\ResGen.write.1.tlog
 D:\Silviu\Projects\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.exe
 D:\Silviu\Projects\FuzzySelector\DomainOntologyService\obj\Debug\DomainOntologyService.pdb

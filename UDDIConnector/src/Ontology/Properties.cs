@@ -6,15 +6,15 @@ namespace UddiConnector.Ontology
     /// <summary>
     ///   Clasă ce abstractizează o funcţionalitate. Imutabilă.
     /// </summary>
-    public sealed class OntologyProperties
+    public sealed class Properties
     {
 
-        private List<OntologyProperty> _properties;
+        private List<Property> _properties;
 
         /// <summary>
         ///   Proprietăţile funcţionalităţii.
         /// </summary>
-        public OntologyProperty[] properties
+        public Property[] properties
         {
             get
             {
@@ -33,17 +33,17 @@ namespace UddiConnector.Ontology
             }
         }
 
-        public OntologyProperties()
+        public Properties()
         {
-            this._properties = new List<OntologyProperty>();
+            this._properties = new List<Property>();
         }
 
-        public OntologyProperties(List<OntologyProperty> properties)
+        public Properties(List<Property> properties)
         {
-            this._properties = new List<OntologyProperty>(properties);
+            this._properties = new List<Property>(properties);
         }
 
-        public void AddProperty(OntologyProperty property)
+        public void AddProperty(Property property)
         {
             this._properties.Add(property);
         }
@@ -54,10 +54,10 @@ namespace UddiConnector.Ontology
         /// </summary>
         /// <param name="propertyName">Numele proprietăţii căutate</param>
         /// <returns>Proprietatea căutatp sau null dacă nu este găsită</returns>
-        public OntologyProperty getProperty(string propertyName)
+        public Property getProperty(string propertyName)
         {
 
-            foreach (OntologyProperty property in this._properties)
+            foreach (Property property in this._properties)
             {
 
                 if (property.name == propertyName)
