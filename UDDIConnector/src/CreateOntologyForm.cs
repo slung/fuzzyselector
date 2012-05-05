@@ -19,7 +19,10 @@ namespace UDDIConnector
     public partial class CreateOntologyForm : Form
     {
         private readonly string propertiesFilePath = "./resx/properties.xml";
+        private readonly string ontologiesFilePath = "./resx/";
         private Properties availableProperties;
+        private Properties selectedProperties;
+
         /// <summary>
         ///   Informatii privind conexiunea la serverul UDDI.
         /// </summary>
@@ -35,6 +38,8 @@ namespace UDDIConnector
             SetProperties();
             PopulateWithAvailableProperties();
         }
+
+        #region HELPERS
 
         private void SetProperties()
         {
@@ -95,6 +100,11 @@ namespace UDDIConnector
             this.lbAvailableProperties.SetSelected(0, true);
         }
 
+        private void PopultateWithTerms(List<Term> terms)
+        {
+            this.dgvTerms.DataSource = terms;
+        }
+
         private void CopyAllItemsFromTo(ListBox listBoxFrom, ListBox listBoxTo)
         {
             foreach (object item in listBoxFrom.Items)
@@ -116,6 +126,10 @@ namespace UDDIConnector
                 listBox.Items.Remove(item);
             }
         }
+
+        #endregion
+
+        #region EVENTS
 
         private void btnOneIn_Click(object sender, EventArgs e)
         {
@@ -167,7 +181,40 @@ namespace UDDIConnector
 
         private void lbSelectedProperties_SelectedIndexChanged(object sender, EventArgs e)
         {
+            this.gbDetails.Enabled = true;
+
             Property selectedItem = (Property)this.lbSelectedProperties.SelectedItem;
+
+            this.PopultateWithTerms(selectedItem.Terms);
         }
+
+        private void btnSaveProperty_Click(object sender, EventArgs e)
+        {
+            //Save property Start & End
+            ((Property)this.lbSelectedProperties.SelectedItem).start = Double.Parse(this.tbOntologyStart.Text);
+            ((Property)this.lbSelectedProperties.SelectedItem).end = Double.Parse(this.tbOntologyEnd.Text);
+        }
+
+        private void lbAvailableProperties_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            this.gbDetails.Enabled = false;
+        }
+
+        private void btnCreatePublish_Click(object sender, EventArgs e)
+        {
+            //Create properties from selected properties
+            this.selectedProperties = new Properties();
+
+            foreach (Property property in this.lbSelectedProperties.Items)
+            {
+                this.selectedProperties.AddProperty(property);
+            }
+
+
+            //Save new Ontology
+            var x = 1;
+        }
+
+        #endregion
     }
 }

@@ -22,27 +22,35 @@ namespace UddiConnector.Ontology
         /// <summary>
         ///   Începutul domeniului de validitate a proprietăţii.
         /// </summary>
-        public readonly double start;
+        public double start;
 
         /// <summary>
         ///   Sfârşitul domeniului de validitate a proprietăţii.
         /// </summary>
-        public readonly double end;
+        public double end;
 
         private List<Term> terms;
 
+
+        public List<Term> Terms
+        {
+            get
+            {
+                return terms;
+            }
+        }
         /// <summary>
         ///   Termenii proprietăţii.
         /// </summary>
-        public Term[] Terms
-        {
+        //public Term[] Terms
+        //{
 
-            get
-            {
+        //    get
+        //    {
 
-                return this.terms == null ? null : this.terms.ToArray();
-            }
-        }
+        //        return this.terms == null ? null : this.terms.ToArray();
+        //    }
+        //}
 
         /// <summary>
         ///   Numărul de termeni ai proprietăţii.

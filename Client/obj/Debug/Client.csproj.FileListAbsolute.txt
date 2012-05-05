@@ -101,3 +101,17 @@ D:\Silviu\Projects\FuzzySelector\Client\obj\Debug\ResGen.read.1.tlog
 D:\Silviu\Projects\FuzzySelector\Client\obj\Debug\ResGen.write.1.tlog
 D:\Silviu\Projects\FuzzySelector\Client\obj\Debug\Client.exe
 D:\Silviu\Projects\FuzzySelector\Client\obj\Debug\Client.pdb
+D:\Projects\FuzzySelector\Client\bin\Debug\Client.exe.config
+D:\Projects\FuzzySelector\Client\bin\Debug\Client.exe
+D:\Projects\FuzzySelector\Client\bin\Debug\Client.pdb
+D:\Projects\FuzzySelector\Client\bin\Debug\FuzzySelectorCommon.dll
+D:\Projects\FuzzySelector\Client\bin\Debug\ZedGraph.dll
+D:\Projects\FuzzySelector\Client\bin\Debug\FuzzySelectorCommon.pdb
+D:\Projects\FuzzySelector\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\FuzzySelector\Client\obj\Debug\Client.resx.ClientStrings.resources
+D:\Projects\FuzzySelector\Client\obj\Debug\FuzzySelector.Client.ClientForm.resources
+D:\Projects\FuzzySelector\Client\obj\Debug\FuzzySelector.Client.WSDLConnectorForm.resources
+D:\Projects\FuzzySelector\Client\obj\Debug\ResGen.read.1.tlog
+D:\Projects\FuzzySelector\Client\obj\Debug\ResGen.write.1.tlog
+D:\Projects\FuzzySelector\Client\obj\Debug\Client.exe
+D:\Projects\FuzzySelector\Client\obj\Debug\Client.pdb

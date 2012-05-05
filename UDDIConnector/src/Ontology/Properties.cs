@@ -54,7 +54,7 @@ namespace UddiConnector.Ontology
         /// </summary>
         /// <param name="propertyName">Numele proprietăţii căutate</param>
         /// <returns>Proprietatea căutatp sau null dacă nu este găsită</returns>
-        public Property getProperty(string propertyName)
+        public Property GetProperty(string propertyName)
         {
 
             foreach (Property property in this._properties)

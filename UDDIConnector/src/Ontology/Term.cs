@@ -1,10 +1,6 @@
 ﻿namespace UddiConnector.Ontology
 {
-
-    /// <summary>
-    ///   Clasă ce abstractizează un termen fuzzy. Imutabilă.
-    /// </summary>
-    public sealed class Term
+    public class Term
     {
 
         /// <summary>
@@ -13,11 +9,68 @@
         public readonly string name;
 
         // Cele 4 coordonatel ale unui termen.
-        public readonly double start;       //  1      left---right
-        public readonly double left;        //  |      /         \
-        public readonly double right;       //  |     /           \
-        public readonly double end;         //  0--start----------end------  
+        public double start;       //  1      left---right
+        public double left;        //  |      /         \
+        public double right;       //  |     /           \
+        public double end;         //  0--start----------end------  
 
+
+        public string Name
+        {
+            get
+            {
+                return this.name;
+            }
+        }
+
+        public double Start
+        {
+            get
+            {
+                return this.start;
+            }
+            set
+            {
+                this.start = value;
+            }
+        }
+
+        public double Left
+        {
+            get
+            {
+                return this.left;
+            }
+            set
+            {
+                this.left = value;
+            }
+        }
+
+        public double Right
+        {
+            get
+            {
+                return this.right;
+            }
+            set
+            {
+                this.right = value;
+            }
+        }
+
+        public double End
+        {
+            get
+            {
+                return this.end;
+            }
+            set
+            {
+                this.end = value;
+            }
+        }
+        
         /// <summary>
         ///   Indică dacă un camp start, left, right sau end nu a putut fi parsat din string în double.
         /// </summary>
