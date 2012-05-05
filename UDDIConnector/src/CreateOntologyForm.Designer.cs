@@ -68,6 +68,7 @@
             this.tbOntologyName.Name = "tbOntologyName";
             this.tbOntologyName.Size = new System.Drawing.Size(209, 20);
             this.tbOntologyName.TabIndex = 1;
+            this.tbOntologyName.TextChanged += new System.EventHandler(this.tbOntologyName_TextChanged);
             // 
             // lbAvailableProperties
             // 
@@ -149,6 +150,7 @@
             // 
             // btnCreatePublish
             // 
+            this.btnCreatePublish.Enabled = false;
             this.btnCreatePublish.Location = new System.Drawing.Point(502, 520);
             this.btnCreatePublish.Name = "btnCreatePublish";
             this.btnCreatePublish.Size = new System.Drawing.Size(112, 24);
@@ -203,6 +205,7 @@
             // 
             // btnSaveProperty
             // 
+            this.btnSaveProperty.Enabled = false;
             this.btnSaveProperty.Location = new System.Drawing.Point(491, 224);
             this.btnSaveProperty.Name = "btnSaveProperty";
             this.btnSaveProperty.Size = new System.Drawing.Size(75, 23);
@@ -217,6 +220,7 @@
             this.tbOntologyEnd.Name = "tbOntologyEnd";
             this.tbOntologyEnd.Size = new System.Drawing.Size(188, 20);
             this.tbOntologyEnd.TabIndex = 4;
+            this.tbOntologyEnd.TextChanged += new System.EventHandler(this.tbOntologyEnd_TextChanged);
             // 
             // tbOntologyStart
             // 
@@ -224,6 +228,7 @@
             this.tbOntologyStart.Name = "tbOntologyStart";
             this.tbOntologyStart.Size = new System.Drawing.Size(174, 20);
             this.tbOntologyStart.TabIndex = 3;
+            this.tbOntologyStart.TextChanged += new System.EventHandler(this.tbOntologyStart_TextChanged);
             // 
             // label5
             // 
