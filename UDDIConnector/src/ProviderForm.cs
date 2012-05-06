@@ -8,6 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 
 using Microsoft.Uddi;
+using UDDIConnector.src;
 
 namespace UDDIConnector {
 
@@ -130,6 +131,20 @@ namespace UDDIConnector {
                 CreateOntologyForm createOntologyForm = new CreateOntologyForm(uddiConnection);
                
                 createOntologyForm.ShowDialog();
+            //}
+        }
+
+        private void btnComposeOntologies_Click(object sender, EventArgs e)
+        {
+            //if (uddiConnection == null) {
+
+            //    MessageBox.Show("Missing UDDI Connection", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            //}
+            //else {
+
+            OntologyCompositionForm createOntologyForm = new OntologyCompositionForm(uddiConnection);
+
+            createOntologyForm.ShowDialog();
             //}
         }       
     }

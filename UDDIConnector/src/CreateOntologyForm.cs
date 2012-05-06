@@ -126,7 +126,7 @@ namespace UDDIConnector
 
 
             //Save new Ontology to XML
-            this.ontology.WriteToXML(this.ontologiesFilePath);
+            this.ontology.ToXML(this.ontologiesFilePath);
         }
 
         private void tbOntologyName_TextChanged(object sender, EventArgs e)

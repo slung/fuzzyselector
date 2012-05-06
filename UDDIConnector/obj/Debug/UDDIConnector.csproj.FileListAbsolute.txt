@@ -326,3 +326,4 @@ D:\Projects\FuzzySelector\UDDIConnector\obj\Debug\UDDIConnector.SearchOntologyFo
 D:\Projects\FuzzySelector\UDDIConnector\obj\Debug\UDDIConnector.SearchServiceForm.resources
 D:\Projects\FuzzySelector\UDDIConnector\obj\Debug\ResGen.read.1.tlog
 D:\Projects\FuzzySelector\UDDIConnector\obj\Debug\ResGen.write.1.tlog
+D:\Projects\FuzzySelector\UDDIConnector\obj\Debug\UDDIConnector.src.OntologyCompositionForm.resources

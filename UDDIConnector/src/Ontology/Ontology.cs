@@ -122,10 +122,15 @@ namespace UddiConnector.Ontology
             return this._properties.GetProperty(propertyName);
         }
 
+        public void FromXML()
+        {
+ 
+        }
+
         /// <summary>
         /// Writes Ontology to XML
         /// </summary>
-        public void WriteToXML(string path)
+        public void ToXML(string path)
         {
             XmlWriterSettings settings = new XmlWriterSettings();
             settings.Indent = true;

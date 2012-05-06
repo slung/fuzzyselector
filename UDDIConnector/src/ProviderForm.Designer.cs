@@ -32,11 +32,16 @@
             this.gbActions = new System.Windows.Forms.GroupBox();
             this.gbSearch = new System.Windows.Forms.GroupBox();
             this.gbPublish = new System.Windows.Forms.GroupBox();
-            this.btnUDDIConnection = new System.Windows.Forms.Button();
             this.btnCreateOntology = new System.Windows.Forms.Button();
+            this.btnUDDIConnection = new System.Windows.Forms.Button();
+            this.gbCreate = new System.Windows.Forms.GroupBox();
+            this.gbCompose = new System.Windows.Forms.GroupBox();
+            this.btnComposeOntologies = new System.Windows.Forms.Button();
             this.gbActions.SuspendLayout();
             this.gbSearch.SuspendLayout();
             this.gbPublish.SuspendLayout();
+            this.gbCreate.SuspendLayout();
+            this.gbCompose.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnPublishService
@@ -61,7 +66,7 @@
             // 
             // btnPublishOntology
             // 
-            this.btnPublishOntology.Location = new System.Drawing.Point(18, 59);
+            this.btnPublishOntology.Location = new System.Drawing.Point(18, 70);
             this.btnPublishOntology.Name = "btnPublishOntology";
             this.btnPublishOntology.Size = new System.Drawing.Size(109, 23);
             this.btnPublishOntology.TabIndex = 3;
@@ -81,11 +86,13 @@
             // 
             // gbActions
             // 
-            this.gbActions.Controls.Add(this.gbSearch);
+            this.gbActions.Controls.Add(this.gbCompose);
+            this.gbActions.Controls.Add(this.gbCreate);
             this.gbActions.Controls.Add(this.gbPublish);
+            this.gbActions.Controls.Add(this.gbSearch);
             this.gbActions.Location = new System.Drawing.Point(12, 51);
             this.gbActions.Name = "gbActions";
-            this.gbActions.Size = new System.Drawing.Size(352, 169);
+            this.gbActions.Size = new System.Drawing.Size(670, 169);
             this.gbActions.TabIndex = 16;
             this.gbActions.TabStop = false;
             this.gbActions.Text = "Actions";
@@ -94,7 +101,7 @@
             // 
             this.gbSearch.Controls.Add(this.btnSearchService);
             this.gbSearch.Controls.Add(this.btnSearchOntology);
-            this.gbSearch.Location = new System.Drawing.Point(188, 30);
+            this.gbSearch.Location = new System.Drawing.Point(509, 30);
             this.gbSearch.Name = "gbSearch";
             this.gbSearch.Size = new System.Drawing.Size(146, 119);
             this.gbSearch.TabIndex = 17;
@@ -103,29 +110,18 @@
             // 
             // gbPublish
             // 
-            this.gbPublish.Controls.Add(this.btnCreateOntology);
             this.gbPublish.Controls.Add(this.btnPublishService);
             this.gbPublish.Controls.Add(this.btnPublishOntology);
-            this.gbPublish.Location = new System.Drawing.Point(16, 30);
+            this.gbPublish.Location = new System.Drawing.Point(176, 30);
             this.gbPublish.Name = "gbPublish";
             this.gbPublish.Size = new System.Drawing.Size(146, 119);
             this.gbPublish.TabIndex = 16;
             this.gbPublish.TabStop = false;
             this.gbPublish.Text = "Publish";
             // 
-            // btnUDDIConnection
-            // 
-            this.btnUDDIConnection.Location = new System.Drawing.Point(12, 14);
-            this.btnUDDIConnection.Name = "btnUDDIConnection";
-            this.btnUDDIConnection.Size = new System.Drawing.Size(352, 23);
-            this.btnUDDIConnection.TabIndex = 1;
-            this.btnUDDIConnection.Text = "UDDI Connection";
-            this.btnUDDIConnection.UseVisualStyleBackColor = true;
-            this.btnUDDIConnection.Click += new System.EventHandler(this.btnUDDIConnection_Click);
-            // 
             // btnCreateOntology
             // 
-            this.btnCreateOntology.Location = new System.Drawing.Point(18, 88);
+            this.btnCreateOntology.Location = new System.Drawing.Point(20, 30);
             this.btnCreateOntology.Name = "btnCreateOntology";
             this.btnCreateOntology.Size = new System.Drawing.Size(109, 23);
             this.btnCreateOntology.TabIndex = 4;
@@ -133,15 +129,55 @@
             this.btnCreateOntology.UseVisualStyleBackColor = true;
             this.btnCreateOntology.Click += new System.EventHandler(this.btnCreateOntology_Click);
             // 
+            // btnUDDIConnection
+            // 
+            this.btnUDDIConnection.Location = new System.Drawing.Point(12, 14);
+            this.btnUDDIConnection.Name = "btnUDDIConnection";
+            this.btnUDDIConnection.Size = new System.Drawing.Size(670, 23);
+            this.btnUDDIConnection.TabIndex = 1;
+            this.btnUDDIConnection.Text = "UDDI Connection";
+            this.btnUDDIConnection.UseVisualStyleBackColor = true;
+            this.btnUDDIConnection.Click += new System.EventHandler(this.btnUDDIConnection_Click);
+            // 
+            // gbCreate
+            // 
+            this.gbCreate.Controls.Add(this.btnCreateOntology);
+            this.gbCreate.Location = new System.Drawing.Point(15, 30);
+            this.gbCreate.Name = "gbCreate";
+            this.gbCreate.Size = new System.Drawing.Size(146, 119);
+            this.gbCreate.TabIndex = 18;
+            this.gbCreate.TabStop = false;
+            this.gbCreate.Text = "Create";
+            // 
+            // gbCompose
+            // 
+            this.gbCompose.Controls.Add(this.btnComposeOntologies);
+            this.gbCompose.Location = new System.Drawing.Point(337, 30);
+            this.gbCompose.Name = "gbCompose";
+            this.gbCompose.Size = new System.Drawing.Size(157, 119);
+            this.gbCompose.TabIndex = 19;
+            this.gbCompose.TabStop = false;
+            this.gbCompose.Text = "Compose";
+            // 
+            // btnComposeOntologies
+            // 
+            this.btnComposeOntologies.Location = new System.Drawing.Point(18, 30);
+            this.btnComposeOntologies.Name = "btnComposeOntologies";
+            this.btnComposeOntologies.Size = new System.Drawing.Size(120, 23);
+            this.btnComposeOntologies.TabIndex = 0;
+            this.btnComposeOntologies.Text = "Compose Ontologies";
+            this.btnComposeOntologies.UseVisualStyleBackColor = true;
+            this.btnComposeOntologies.Click += new System.EventHandler(this.btnComposeOntologies_Click);
+            // 
             // ProviderForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(369, 232);
+            this.ClientSize = new System.Drawing.Size(692, 232);
             this.Controls.Add(this.btnUDDIConnection);
             this.Controls.Add(this.gbActions);
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(385, 270);
+            this.MaximumSize = new System.Drawing.Size(708, 270);
             this.MinimizeBox = false;
             this.MinimumSize = new System.Drawing.Size(385, 270);
             this.Name = "ProviderForm";
@@ -149,6 +185,8 @@
             this.gbActions.ResumeLayout(false);
             this.gbSearch.ResumeLayout(false);
             this.gbPublish.ResumeLayout(false);
+            this.gbCreate.ResumeLayout(false);
+            this.gbCompose.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -164,5 +202,8 @@
         private System.Windows.Forms.GroupBox gbSearch;
         private System.Windows.Forms.Button btnUDDIConnection;
         private System.Windows.Forms.Button btnCreateOntology;
+        private System.Windows.Forms.GroupBox gbCompose;
+        private System.Windows.Forms.Button btnComposeOntologies;
+        private System.Windows.Forms.GroupBox gbCreate;
     }
 }
