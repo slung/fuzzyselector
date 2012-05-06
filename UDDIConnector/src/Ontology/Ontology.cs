@@ -130,7 +130,9 @@ namespace UddiConnector.Ontology
             XmlWriterSettings settings = new XmlWriterSettings();
             settings.Indent = true;
 
-            using (XmlWriter writer = XmlWriter.Create(path + this.name + ".xml"))
+            string ontologyFilePath = path + this.name + ".xml";
+
+            using (XmlWriter writer = XmlWriter.Create(ontologyFilePath))
             {
                 writer.WriteStartDocument();
 
